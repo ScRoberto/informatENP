@@ -1,0 +1,15 @@
+{
+  "mensajes": [
+    {
+      "id": 1,
+      "mensaje": "Mensaje de prueba"
+    },
+    {
+      "id": 2,
+      "mensaje": "Mensaje de prueba 2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
