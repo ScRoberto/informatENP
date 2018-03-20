@@ -1,32 +1,36 @@
 {
-  "plantel": [
+  "mensajes_planteles": [
     {
-      "id": 1,
+      "id": 0,
       "mensajes":[
         {
           "id":1,  
-          "mensaje": "Mensaje de prueba 1.1",
-          "plantel": ""
+          "mensaje": "Se les informa que debido al temblor ocurrido el día de hoy en la tarde las labores del día de hoy y mañana serán suspendidas",
+          "fecha": "16/02/2018",
+          "hora": "18:00"
         },
         {
           "id":2,  
-          "mensaje": "Mensaje de prueba 1.2",
-          "plantel": ""
+          "mensaje": "Se les informa que el día de mañana se reanudan las actividades normalmente",
+          "fecha": "18/02/2018",
+          "hora": "15:00"
         }
       ]
     },
     {
-      "id": 2,
+      "id": 8,
       "mensajes":[
         {
           "id":1,
-          "mensaje": "Mensaje de prueba 2.1",
-          "plantel": ""
+          "mensaje": "Mensaje de prueba 2.1, plantel 8",
+          "fecha": "03/01/2018",
+          "hora": "09:00"
         },
         {
           "id":2,  
-          "mensaje": "Mensaje de prueba 2.2",
-          "plantel": ""
+          "mensaje": "Mensaje de prueba 2.2, plantel 8",
+          "fecha": "05/03/2018",
+          "hora": "18:00"
         }
       ]
     }
