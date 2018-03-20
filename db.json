@@ -1,13 +1,16 @@
 {
-  "mensajes": [
+  "plantel": [
     {
       "id": 1,
-      "mensaje": "Mensaje de prueba"
-    },
-    {
-      "id": 2,
-      "mensaje": "Mensaje de prueba 2"
-    }
+      "mensaje":[
+        {
+        "mensaje": "Mensaje de prueba",
+        "plantel": ""
+        }
+	
+    ]
+  }
+
   ],
   "profile": {
     "name": "typicode"
