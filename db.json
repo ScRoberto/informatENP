@@ -7,13 +7,15 @@
           "id":1,  
           "mensaje": "Se les informa que debido al temblor ocurrido el día de hoy en la tarde las labores del día de hoy y mañana serán suspendidas",
           "fecha": "16/02/2018",
-          "hora": "18:00"
+          "hora": "18:00",
+          "plantel": "020"
         },
         {
           "id":2,  
           "mensaje": "Se les informa que el día de mañana se reanudan las actividades normalmente",
           "fecha": "18/02/2018",
-          "hora": "15:00"
+          "hora": "15:00",
+          "plantel": "020"
         }
       ]
     },
@@ -24,13 +26,15 @@
           "id":1,
           "mensaje": "Mensaje de prueba 2.1, plantel 8",
           "fecha": "03/01/2018",
-          "hora": "09:00"
+          "hora": "09:00",
+          "plantel": "028"
         },
         {
           "id":2,  
           "mensaje": "Mensaje de prueba 2.2, plantel 8",
           "fecha": "05/03/2018",
-          "hora": "18:00"
+          "hora": "18:00",
+          "plantel": "028"
         }
       ]
     }
